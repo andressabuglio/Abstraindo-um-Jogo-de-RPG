@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\bin\Debug\net6.0\dotnet - poo.exe
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\bin\Debug\net6.0\dotnet - poo.deps.json
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\bin\Debug\net6.0\dotnet - poo.runtimeconfig.json
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\bin\Debug\net6.0\dotnet - poo.dll
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\bin\Debug\net6.0\dotnet - poo.pdb
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\obj\Debug\net6.0\dotnet - poo.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\obj\Debug\net6.0\dotnet - poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\obj\Debug\net6.0\dotnet - poo.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\obj\Debug\net6.0\dotnet - poo.AssemblyInfo.cs
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\obj\Debug\net6.0\dotnet - poo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\obj\Debug\net6.0\dotnet - poo.dll
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\obj\Debug\net6.0\refint\dotnet - poo.dll
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\obj\Debug\net6.0\dotnet - poo.pdb
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\obj\Debug\net6.0\dotnet - poo.genruntimeconfig.cache
+C:\Users\Admin\Documents\Dev\Git\DIO\dotnet - poo\obj\Debug\net6.0\ref\dotnet - poo.dll
