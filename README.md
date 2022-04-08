@@ -8,7 +8,7 @@
 * Extensões C#
 * SDK da Microsoft
 
-## E vamos utilizar os 4 pilares da Orientação A Objetos, são eles:
+## Para desenvolver foi utilizado os 4 pilares da Orientação A Objetos, são eles:
 
 * Abstração
 * Herança
@@ -19,4 +19,5 @@
 
 * H. E. P. A
 
+## Notas Finais:
 Este repositório contém a resolução do desafio prático proposto por o professor Felipe Aguiar da Digital Inovation One, que tem como intuito reforçar meu conhecimento em Programação Orientada a Objetos (POO) em C# . Além disso, desenvolver ainda mais minha capacidade de abstração com um problema real.
