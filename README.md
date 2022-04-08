@@ -2,7 +2,7 @@
 
 ![heroi desafio (2)](https://user-images.githubusercontent.com/88461178/158696345-b4cd4733-7bbb-4131-8cdb-9f03d66100d8.PNG)
 
-## Para Executarmos precisaremos de alguns requisitos básicos, são eles:
+## Para Executar o projeto será necessário alguns requisitos básicos, são eles:
 
 * Vs Code
 * Extensões C#
